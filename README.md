@@ -2,7 +2,7 @@
 
 Meu nome é Ruan Santos 
 
-- Estou estudando na alura
+- Estou estudando na [ALURA](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo este espaço para minha organização e compartilhameto dos meus projetos desenvolvidos
 
